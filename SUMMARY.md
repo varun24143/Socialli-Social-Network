@@ -19,7 +19,7 @@
 
 ## ⚒ Milestones
 
-* [Milestone 1 - Launch](milestones/milestone-1-launch.md)
+* [Milestone 1 - Public Annoucement](milestones/milestone-1-public-annoucement.md)
 * [Milestone 2 - Development](milestones/milestone-2-development.md)
 * [Milestone 3 - Genesis](milestones/milestone-3-genesis.md)
 * [Milestone 4 - Demo Testnet Launch](milestones/milestone-4-demo-testnet-launch.md)
