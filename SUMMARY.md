@@ -6,6 +6,7 @@
 
 * [Problem & Solution](socialli/problem-and-solution.md)
 * [Socialli Architecture](socialli/socialli-architecture.md)
+* [Social Network Design and Architecture](socialli/social-network-design-and-architecture.md)
 * [Phase 1 - Social Networks](socialli/phase-1-social-networks.md)
 * [Socialli Identity](socialli/socialli-identity.md)
 * [Socialli Offchain and IPFS](socialli/socialli-offchain-and-ipfs.md)
