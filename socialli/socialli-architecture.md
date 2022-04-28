@@ -9,4 +9,4 @@ description: >-
 
 In the first phase we begin developing around Social Networks. More details around that are in the upcoming sections. This architecture presents a complete view of managing the sdk in a plug and play manner, where all the functionalities will be strictly modular in nature.
 
-![Socialli Architecture](<../.gitbook/assets/GameArchitecture-Social.li SDK V1.jpg>)
+![Socialli Architecture](<../.gitbook/assets/Game architecture social.li.png>)
