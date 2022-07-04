@@ -2,9 +2,9 @@
 coverY: 0
 ---
 
-# 📚 Socialli Whitepaper
+# 📚 Socialli Social Network Whitepaper
 
-## Socialli
+## Socialli Social Network
 
 Socialli is a layer-1 chain which is built using Substrate. It is the easiest way to build and deploy your projects on the Polkadot ecosystem. Building via Socialli ensures that all your dapps are future proof, thanks to Substrate’s forkless upgrades. Even if new substrate based chains are invented, your dapp will instantly be compatible with any other chain.
 

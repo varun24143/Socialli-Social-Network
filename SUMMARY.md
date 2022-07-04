@@ -1,22 +1,22 @@
 # Table of contents
 
-* [📚 Socialli Whitepaper](README.md)
+* [📚 Socialli Social Network Whitepaper](README.md)
 
-## 📖 Socialli
+## 📖 Socialli Social Network
 
-* [Problem & Solution](socialli/problem-and-solution.md)
-* [Socialli Architecture](socialli/socialli-architecture.md)
-* [Social Network Design and Architecture](socialli/social-network-design-and-architecture.md)
-* [Phase 1 - Social Networks](socialli/phase-1-social-networks.md)
-* [Socialli Identity](socialli/socialli-identity.md)
-* [Socialli Offchain and IPFS](socialli/socialli-offchain-and-ipfs.md)
-* [Database Indexing](socialli/database-indexing.md)
-* [Governance](socialli/governance.md)
-* [Treasury](socialli/treasury.md)
-* [Socialli Roadmap](socialli/socialli-roadmap.md)
-* [Tokenomics](socialli/tokenomics/README.md)
-  * [Token Economics](socialli/tokenomics/token-economics.md)
-  * [Token Distribution](socialli/tokenomics/token-distribution.md)
+* [Problem & Solution](socialli-social-network/problem-and-solution.md)
+* [Socialli Architecture](socialli-social-network/socialli-architecture.md)
+* [Social Network Design and Architecture](socialli-social-network/social-network-design-and-architecture.md)
+* [Phase 1 - Social Networks](socialli-social-network/phase-1-social-networks.md)
+* [Socialli Identity](socialli-social-network/socialli-identity.md)
+* [Socialli Offchain and IPFS](socialli-social-network/socialli-offchain-and-ipfs.md)
+* [Database Indexing](socialli-social-network/database-indexing.md)
+* [Governance](socialli-social-network/governance.md)
+* [Treasury](socialli-social-network/treasury.md)
+* [Socialli Roadmap](socialli-social-network/socialli-roadmap.md)
+* [Tokenomics](socialli-social-network/tokenomics/README.md)
+  * [Token Economics](socialli-social-network/tokenomics/token-economics.md)
+  * [Token Distribution](socialli-social-network/tokenomics/token-distribution.md)
 
 ## ⚒ Milestones
 
